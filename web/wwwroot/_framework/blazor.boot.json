@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "ExcelCompare.dll": "sha256-8pYF0UoPj+DR\/y3UlH1oqsh2nGnpbR3+7xKp+N84U7c=",
+      "ExcelCompare.dll": "sha256-SKwyJNfgzj3kG9SFNAFaYYDbKzEc96AeVNR0Ob6OtTw=",
       "ExcelCompare.Shared.dll": "sha256-jpXkDQUs6BfjGKHKCOv860pU4UTtprneEvXDhQdmksc=",
       "Microsoft.AspNetCore.Components.dll": "sha256-k2rcAA8MXlPgAzGUGyMv2\/o3eSvyFjCluAXm2UK2Wxo=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-yrKDQgsO41B2w2CV9rIPO1tHfTszxMwP5NO22ca3aKk=",
@@ -52,7 +52,8 @@
       "System.Text.Encodings.Web.dll": "sha256-I9H\/oBAXuKgbDZypJILfJASFnsQSvLdkNo\/vOKDBXBY=",
       "System.Text.Json.dll": "sha256-iVjGngf4LplZ43yPCS\/yZwtMFiCaEdiqQotoHD+Ltas=",
       "System.Text.RegularExpressions.dll": "sha256-Rm323+bcay39V358gTOMnhe8d23NRALIWPnxsKIfDlA=",
-      "System.Threading.dll": "sha256-UgztbE0hbS+Ii7kjdWi1OIGyjwF+W65Ti9ASC6bWgdk="
+      "System.Threading.dll": "sha256-UgztbE0hbS+Ii7kjdWi1OIGyjwF+W65Ti9ASC6bWgdk=",
+      "System.Threading.Thread.dll": "sha256-DF2WTv7cAYwOVUuGzBrmLwq9YIFjFaDgkMQuXqsULj8="
     },
     "extensions": null,
     "lazyAssembly": null,
