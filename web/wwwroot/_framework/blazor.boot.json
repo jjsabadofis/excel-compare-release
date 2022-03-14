@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "ExcelCompare.dll": "sha256-DCsvtR3cvSr7QC+YfG6ayVbkuPzQkZsqVAxBkhxFdpU=",
+      "ExcelCompare.dll": "sha256-8pYF0UoPj+DR\/y3UlH1oqsh2nGnpbR3+7xKp+N84U7c=",
       "ExcelCompare.Shared.dll": "sha256-jpXkDQUs6BfjGKHKCOv860pU4UTtprneEvXDhQdmksc=",
       "Microsoft.AspNetCore.Components.dll": "sha256-k2rcAA8MXlPgAzGUGyMv2\/o3eSvyFjCluAXm2UK2Wxo=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-yrKDQgsO41B2w2CV9rIPO1tHfTszxMwP5NO22ca3aKk=",
